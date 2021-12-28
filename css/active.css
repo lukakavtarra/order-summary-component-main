@@ -1,0 +1,13 @@
+.apex1:hover {
+    text-decoration: none;
+    color: #766cf1;
+}
+
+.button1:hover {
+    background-color: #766cf1;
+}
+
+.button2:hover {
+    color: black;
+    cursor: pointer;
+}
